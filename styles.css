@@ -1,0 +1,16 @@
+.container{background-color:pink;
+padding:40px;
+
+margin-top:15%;
+margin-left:15%;
+width:50%;}
+
+button{padding:10px;
+font-size:1rem;
+background-color:blue;
+color:white;
+}
+
+h2{
+  color:rgb(176, 19, 19);
+}
